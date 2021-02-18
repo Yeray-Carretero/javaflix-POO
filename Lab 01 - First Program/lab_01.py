@@ -1,4 +1,4 @@
 Hi
 Hello
 This is a test
-For my first lab proyect
+print("Im going to try my best in this proyect")
